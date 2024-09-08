@@ -10,7 +10,7 @@ int main(){
             cout<<j<<" ";
         }
         cout<<endl;
-        cout,
+        cout<<"Hello ";
     }
     return 0;
 }
