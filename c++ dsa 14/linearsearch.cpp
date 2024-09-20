@@ -14,6 +14,7 @@ int main(){
     int targate;
     cout<<"enter a number : ";
     cin>>targate;
+    
     cout<<linearSearch(arr,8,targate);
     return 0;
 }
