@@ -11,4 +11,5 @@ int main(){
     cout<<"factorial = "<<factN(5)<<endl;
     cout<<"factorial = "<<factN(6)<<endl;
     return 0;
+    
 }
